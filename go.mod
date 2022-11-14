@@ -57,7 +57,7 @@ require (
 	github.com/moby/sys/mount v0.2.0 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/otiai10/copy v1.6.0
+	github.com/otiai10/copy v1.9.0
 	github.com/pborman/uuid v1.2.1
 	github.com/phayes/freeport v0.0.0-20180830031419-95f893ade6f2
 	github.com/pkg/browser v0.0.0-20160118053552-9302be274faa
@@ -82,7 +82,7 @@ require (
 	golang.org/x/mod v0.5.1
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210917161153-d61c044b1678
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8
 	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
 	golang.org/x/text v0.3.7
 	gonum.org/v1/plot v0.10.0
